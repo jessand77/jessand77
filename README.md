@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jessand77
+- 👋 Hi, I’m Jessica Sandler
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning React
-- 📫 How to reach me ...
+
 
 <!---
 jessand77/jessand77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
