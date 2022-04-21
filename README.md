@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica Sandler
 - 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning JavaScript, React and Redux
 
 
 <!---
