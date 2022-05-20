@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jessica Sandler
-- 👀 I’m a frontend developer with fullstack ambitions
-- 🌱 I’m currently learning JavaScript, React and Redux
+- 👋 Hi, I’m Jessica Sandler. I’m a frontend developer with fullstack ambitions.
+- 👀 I'm interested in environmental issues, nutritional science and interrailing in Europe
+- 🌱 My tech-stack: HTML, CSS, JavaScript, React, Redux, Node.js, MongoDB, Express
 
 
 <!---
